@@ -1,6 +1,6 @@
 <img 
   width=100% 
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&text=I%20am%20Kelvin%20Gabriel&fontColor=FFFFFF&fontAlign=62&fontAlignY=40&desc=Front%20End%20%20Developer&descSize=28&descAlign=83&color=0:23407A,100:115EF7&animation=fadeIn"/>
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kelvin%20Gabriel&fontColor=FFFFFF&fontAlign=72&fontAlignY=40&desc=Front%20End%20%20Developer&descSize=28&descAlign=83&color=0:23407A,100:115EF7&animation=fadeIn"/>
 
 <img 
   width=100%
