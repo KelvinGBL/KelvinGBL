@@ -1,4 +1,5 @@
-# ✌🏻 Olá, eu sou Kelvin Gabriel
+# <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/smiling-face-with-sunglasses_1f60e.gif" alt="Smiling Face with Sunglasses" width="35" height="35"> Olá, eu sou Kelvin Gabriel
+
 
 ## 👨🏻‍💻 Sobre mim
 Front End Developer focado em interfaces responsivas e otimização de performance. Trabalho com HTML, CSS e Javascript, criando experiências de usuário inovadoras e intuitivas.
