@@ -1,7 +1,7 @@
 # ✌🏻 Olá, eu sou Kelvin Gabriel
 
 ## 👨🏻‍💻 Sobre mim
-Desenvolvedor front-end focado em interfaces responsivas e otimização de performance. Trabalho com HTML, CSS e Javascript, criando experiências de usuário inovadoras e intuitivas.
+Front End Developer focado em interfaces responsivas e otimização de performance. Trabalho com HTML, CSS e Javascript, criando experiências de usuário inovadoras e intuitivas.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: HTML, CSS e Javascript
