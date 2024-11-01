@@ -10,7 +10,8 @@ Front End Developer focado em interfaces responsivas e otimização de performan
 - **Ferramentas**: VS Code, Figma e Inkscape
 
 ## 📚 Atualmente Estudando  
-- Aprofundando em PHP  
+- PHP (Hypertext Preprocessor)
+- SQL (Structured Query Language)  
 
 
 <img 
